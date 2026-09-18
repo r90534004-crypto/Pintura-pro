@@ -1,23 +1,17 @@
 {
-  "atualizado": "2024-06-15",
+  "atualizado": "2024-06-18",
   "produtos": [
     {
-      "nome": "Primer PU 4100 Wanda",
-      "marca": "Wanda",
-      "preco": "R$ 89,90",
-      "url": "https://www.mercadolivre.com.br"
+      "nome": "Compressor Portátil",
+      "marca": "Automotivo",
+      "preco": "R$ 61,71",
+      "url": "https://meli.la/1Ls7xJR"
     },
     {
-      "nome": "Verniz Bimax 5.1",
-      "marca": "Bimax",
-      "preco": "R$ 145,00",
-      "url": "https://www.mercadolivre.com.br"
-    },
-    {
-      "nome": "Primer P31 Sherwin",
-      "marca": "Sherwin-Williams",
-      "preco": "R$ 210,00",
-      "url": "https://www.mercadolivre.com.br"
+      "nome": "Boina Polimento 5 Polegadas 10pçs",
+      "marca": "Automotivo",
+      "preco": "R$ 48,00",
+      "url": "https://meli.la/1bekpiA"
     }
   ]
 }
