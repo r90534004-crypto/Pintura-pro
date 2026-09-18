@@ -1,0 +1,23 @@
+{
+  "atualizado": "2024-06-15",
+  "produtos": [
+    {
+      "nome": "Primer PU 4100 Wanda",
+      "marca": "Wanda",
+      "preco": "R$ 89,90",
+      "url": "https://www.mercadolivre.com.br"
+    },
+    {
+      "nome": "Verniz Bimax 5.1",
+      "marca": "Bimax",
+      "preco": "R$ 145,00",
+      "url": "https://www.mercadolivre.com.br"
+    },
+    {
+      "nome": "Primer P31 Sherwin",
+      "marca": "Sherwin-Williams",
+      "preco": "R$ 210,00",
+      "url": "https://www.mercadolivre.com.br"
+    }
+  ]
+}
